@@ -4,5 +4,5 @@ RuntimeWarning: coroutine '_get_player' was never awaited
 RuntimeWarning: Enable tracemalloc to get the object allocation traceback
 
 
-I can not fix this bug across "await", getting everytime error:
+I see this bag with discord.py and i can not fix this bug across "await", getting everytime error:
 RuntimeWarning: Enable tracemalloc to get the object allocation traceback
