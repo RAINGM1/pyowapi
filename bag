@@ -1,0 +1,8 @@
+Hello man, i was detected bug in your module:
+RuntimeWarning: coroutine '_get_player' was never awaited
+  self._context.run(self._callback, *self._args)
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+
+
+I can not fix this bug across "await", getting everytime error:
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
